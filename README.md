@@ -144,8 +144,3 @@ To secure files in Linux:
 💡 *Permissions are the first line of defense in Linux security.*
 
 ```
-
----
-
-👉 Quer que eu também crie uma **cheat sheet em Markdown (`cheatsheet.md`)** com os comandos `chmod` mais usados (com tabelas e exemplos rápidos), para complementar esse README?
-```
